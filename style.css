@@ -1,0 +1,12 @@
+p{
+    color: blue;
+    
+}
+
+p.green-background{
+    border: 1px solid black;
+    background-color: chartreuse;
+    border-radius: 20%;
+    font-size: 200%;
+    text-align:right;
+}
